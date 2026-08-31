@@ -1,11 +1,19 @@
-# curso-analisis-algoritmos
-Repositorio para los cinco informes de laboratorio evaluativos del semestre
-## 📁 Estructura del Proyecto
+# Curso Análisis de Algoritmos
 
-## 📋 Contenido
+Repositorio oficial para los laboratorios y ejercicios del curso de Análisis de Algoritmos.
 
-- **Laboratorio/**: Los cinco informes de laboratorio evaluativos del semestre
-- **ejemplos-tiempo/**: Código de ejemplo ejecutable de la Semana 2
-- **puntos de referencia/**: Archivos para análisis de tiempo y graficación
-- **MEOW_ml/**: Módulo principal de Machine Learning
+## 📁 Estructura del Repositorio
 
+Este repositorio contiene las siguientes carpetas principales:
+
+- **Laboratorios/**: Contendrá los cinco informes de laboratorio evaluativos del semestre.
+- **ejercicios-clase/**: Código de las sesiones prácticas no evaluativas (incluye ejercicios de Python de la Semana 2).
+- **benchmarks/**: Scripts para medición de tiempos y graficación utilizados en los laboratorios.
+
+## 🛠️ Configuración Inicial
+
+Para clonar y usar este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/santy1612-dotcom/informes-laboratorio.git
+cd informes-laboratorio
