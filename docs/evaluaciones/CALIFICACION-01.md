@@ -45,7 +45,7 @@
 - En `generar_casi_ordenado` y `generar_inverso` el orden queda al revés del que usan sus algoritmos: el "casi ordenado" no queda casi ordenado para ellos y se comporta como el peor caso. Por eso los resultados del escenario B no son los esperados.
 - Los generadores usan números que se repiten (se pedían distintos) y usan `sorted()` para armar los lotes.
 - `generar_inverso` agrega un parámetro que no estaba en la firma; los docstrings de `datos.py` no tienen `Args` ni `Returns`.
-- Hay espacios en blanco al final de líneas, faltan líneas en blanco entre funciones y los archivos no terminan en salto de línea (PEP 8).
+- Faltan líneas en blanco entre funciones (PEP 8).
 
 ## 4. Calidad del análisis de las gráficas (9 / 20)
 **Lo que hizo bien:**
