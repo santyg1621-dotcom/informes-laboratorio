@@ -11,9 +11,9 @@
 | Calidad de la explicación teórica | 7 / 25 |
 | Corrección de la implementación | 12 / 20 |
 | Calidad del análisis de las gráficas | 9 / 20 |
-| Documentación y organización del informe | 3 / 10 |
-| **Total** | **42 / 100** |
-| **Nota (0–5)** | **2.10** |
+| Documentación y organización del informe | 4 / 10 |
+| **Total** | **43 / 100** |
+| **Nota (0–5)** | **2.15** |
 
 ## 1. Corrección conceptual (11 / 25)
 **Lo que hizo bien:**
@@ -58,7 +58,7 @@
 - En 4.3 no cita ningún dato medido (gráfica y tamaño), ni estima si 1.200.000 registros caben en cuatro horas, ni discute otra consideración como memoria o estabilidad.
 - No comenta qué pasa con tamaños pequeños en la gráfica de la Parte 4.
 
-## 5. Documentación y organización del informe (3 / 10)
+## 5. Documentación y organización del informe (4 / 10)
 **Lo que hizo bien:**
 - La carpeta del laboratorio está bien ubicada y tiene todos los archivos pedidos; el informe sigue el orden de las partes y las gráficas se ven.
 - Incluye su nombre e instrucciones para reproducir.
