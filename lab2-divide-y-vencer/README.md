@@ -57,6 +57,6 @@ En el subarreglo máximo la historia es distinta: dividir sí ayuda, porque mane
 
 ### 5. Concepto para la gerente
 
-Yo le recomendaría a la cooperativa usar **divide y vencerás**. Con una serie de 1.000.000 de registros la fuerza bruta se demoraría muchísimo porque es Θ(n²), mientras que el divide y vencerás, al ser Θ(n log n), lo resolvería bastante más rápido.
+Yo le recomendaría a la cooperativa usar . Con una serie de 1.000.000 de registros la fuerza bruta se demoraría muchísimo porque es Θ(n²), mientras que el divide y vencerás, al ser Θ(n log n), lo resolvería bastante más rápido.
 
-Para hacerme una idea, usé la forma de la curva y no una regla de tres: con 8000 registros la fuerza bruta tardó ~2.6 s, y 1.000.000 es 125 veces más datos, así que el tiempo se multiplicaría por 125², unas 15.625 veces. Eso da más de 11 horas. Con divide y vencerás el tiempo crecería mucho más suave, y estimo que quedaría en menos de un minuto. **Aclaro que esto es una estimación, no una medición real.**
+Para hacerme una idea, usé la forma de la curva y no una regla de tres: con 8000 registros la fuerza bruta tardó ~2.6 s, y 1.000.000 es 125 veces más datos, así que el tiempo se multiplicaría por 125², unas 15.625 veces. Eso da más de 11 horas. Con divide y vencerás el tiempo crecería mucho más suave, y estimo que quedaría en menos de un minuto. 
